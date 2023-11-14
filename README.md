@@ -19,7 +19,7 @@ mkdir C:\VMs\ (Свой путь)<br>
 cd C:\VMs\ (Свой путь) <br> 
 
 
-<h3>В созданно директории размещаем Vagrantfile</h3>
+<h3>В созданной директории размещаем Vagrantfile</h3>
 Деплоит три виртуальные машины с hostname control, ansible1, ansible2
 
 <h3>Запускаем</h3>
