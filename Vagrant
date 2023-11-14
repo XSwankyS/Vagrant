@@ -1,7 +1,3 @@
-Заполнить Vagrantfile следующим образом
-
-Деплоит три виртуальные машины с hostname control, ansible1, ansible2
-
 # -*- mode: ruby -*-
 # vi: set ft=ruby :
 
@@ -66,7 +62,3 @@ Vagrant.configure("2") do |config|
 	  end
    end
 end
-
-Запуск
-vagrant up
-
